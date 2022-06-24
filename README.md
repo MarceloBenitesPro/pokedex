@@ -18,6 +18,9 @@
 
 O Pokedex é um aplicativo no qual o usuário pode visualizar uma lista de Pokémons, pesquisar e visualizar os detalhes de um Pokémon específico. Para obter os dados dos Pokémons foi utilizado a <a href="https://pokeapi.co/">PokéAPI</a>
 
+![pokemon](https://user-images.githubusercontent.com/106987028/175663497-c51ec10d-06b7-4c82-be71-685b71228be7.gif)
+
+
 O principal objetivo com este projeto é conhecer mais do framework vue e suas funcionalidades e aprender mais da dependencia vuetify .
 #
 
