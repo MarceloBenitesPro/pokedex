@@ -71,7 +71,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
   Para ir no ser servidor basta digitar este comando
   ````back
-    > vue run serve
+    > npm run serve
   ````
   Após isso aparecerá a porta do seu servidor.
   #
