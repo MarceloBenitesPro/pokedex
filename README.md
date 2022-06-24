@@ -35,7 +35,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 * <a href="https://vuejs.org/guide/scaling-up/tooling.html#project-scaffolding">VUE-Cli</a>
 * <a href="https://vuetifyjs.com/en/">Vuetify</a>
-* <a href="https://www.typescriptlang.org/">TypeScript</a>
+* <a href="https://www.javascript.com/">JavaScript</a>
 * <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
 * <a href="https://code.visualstudio.com/">VsCode</a>
   
